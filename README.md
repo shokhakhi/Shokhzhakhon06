@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shokhzhakhon Tursumamatov
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning OOP(C++)
+- 🌱 I’m currently learning Javascript 
 - 💞️ I’m looking to collaborate on team work
 - 📫 stursumamatov@gmail.com
 
