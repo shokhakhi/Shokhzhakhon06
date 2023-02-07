@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Shokhzhakhon Tursumamatov
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Javascript 
+- 👋 Hi, I’m @Shokh
+- 👀 I’m interested in Computer science 
+- 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on team work
 - 📫 stursumamatov@gmail.com
 
